@@ -27,7 +27,9 @@ Here is the link where you can access the project live :
 
 
 Thank you!
-Tejpal Kumawat
-IIT BOMBAY
+
+
+
+Reference - The reference for all the medical terms and images are taken from youtuber (Krish naik)..
 
 
